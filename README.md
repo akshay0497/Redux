@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# To see the demo, please visit AkshayRedux (Only Redux version, not UI).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
