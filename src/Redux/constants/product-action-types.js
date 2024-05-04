@@ -1,0 +1,5 @@
+export const ProductionActionTypes = {
+    ALL_PRODUCTS:"ALL_PRODUCTS",
+    SELECTED_PPRODUCT:"SELECTED_PRODUCT",
+    REMOVE_PRODUCT:"REMOVE_PRODUCT"
+}
